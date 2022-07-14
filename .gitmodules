@@ -1,0 +1,3 @@
+[submodule "funding-transfer-client"]
+	path = funding-transfer-client
+	url = ./funding-transfer-client
